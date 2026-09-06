@@ -6,7 +6,7 @@
 /*   By: seconsta <seconsta@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/06 08:01:46 by seconsta          #+#    #+#             */
-/*   Updated: 2026/09/06 08:19:59 by seconsta         ###   ########.fr       */
+/*   Updated: 2026/09/06 23:14:38 by seconsta         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,6 @@ void    rush(int x, int y);
 
 int         main(void)
 {
-    rush(5,5);
+    rush(5,3);
     return (0);
 }
